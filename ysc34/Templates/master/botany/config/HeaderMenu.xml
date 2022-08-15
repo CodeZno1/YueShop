@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root CategoryNum="0">
+  <Menu Id="1" Title="商城资讯" DisplaySequence="2" Category="1" Url="/Articles" Where="" Visible="false" />
+  <Menu Id="2" Title="限时抢购" DisplaySequence="1" Category="1" Url="/CountDownProducts" Where="" Visible="false" />
+  <Menu Id="3" Title="团购" DisplaySequence="3" Category="1" Url="/GroupBuyProducts" Where="" Visible="false" />
+  <Menu Id="5" Title="品牌专卖" DisplaySequence="5" Category="1" Url="/Helps" Where="" Visible="false" />
+  <Menu Id="6" Title="积分兑换" DisplaySequence="6" Category="1" Url="/ProductUnSales" Where="" Visible="false" />
+  <Menu Id="7" Title="分符" DisplaySequence="6" Category="3" Url="http://baidu.com" Where="" Visible="false" />
+  <Menu Id="8" Title="改善方法" DisplaySequence="7" Category="2" Url="" Where="58,30,1,,," Visible="false" />
+</root>
